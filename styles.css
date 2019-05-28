@@ -37,10 +37,7 @@ p {
 .navbar {
   padding: 0 0 4.5rem;
 }
-.navbar-collapse {
-      text-align: right;
 
-}
 .navbar-brand {
   font-family: "Ubuntu";
   font-size: 2.5rem;
@@ -52,6 +49,7 @@ p {
 }
 
 .nav-link {
+  text-align: right;
   font-size: 1.2rem;
   font-family: "Montserrat-Light";
 }
